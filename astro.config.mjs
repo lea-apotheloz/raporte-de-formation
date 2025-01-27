@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://lea-apotheloz/raporte-de-formation/', // TODO: Change to your github url
+    site: 'https://lea-apotheloz.github.io/', // TODO: Change to your github url
     base: 'raporte-de-formation', // TODO: Change to your repo name
     integrations: [starlight({
         title: 'Progress  report',
@@ -31,10 +31,7 @@ export default defineConfig({
                 label: 'Technologies',
                 autogenerate: {directory: 'technologies'},
             },
-            {
-                label: 'Tools',
-                autogenerate: {directory: 'tools'},
-            }
+
         ],
     })],
 });
