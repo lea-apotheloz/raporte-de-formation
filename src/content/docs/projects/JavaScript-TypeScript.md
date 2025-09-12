@@ -43,5 +43,5 @@ pnpm dev
  le front du spider serveur 
 
  ajouts d'élément le spiderBus pour voir les erreurs 
-
- j'ai aussi resolut des test unitaire 
+j'ai rosolut des tests unitaire 
+j'ai modifier un code pour changer en mettant des props et des fetch 
