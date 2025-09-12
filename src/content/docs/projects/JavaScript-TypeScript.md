@@ -42,6 +42,10 @@ pnpm dev
  utilisation de stencil dans les projet intern de l'entreprise comme sur 
  le front du spider serveur 
 
- ajouts d'élément le spiderBus pour voir les erreurs 
-j'ai rosolut des tests unitaire 
+ ajouts d'élément sur  le spiderBus pour voir les erreurs 
+j'ai rosolut des tests unitaire ,
 j'ai modifier un code pour changer en mettant des props et des fetch 
+
+creation d'un monitoring pour pouvoir afficher des erreur et pouvoir 
+les voir directement  avec un styseme de couleur et a l'aide d'ue API 
+combien de temps la sibscription est en erreur 
