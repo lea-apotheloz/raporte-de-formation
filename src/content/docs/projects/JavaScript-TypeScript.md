@@ -36,3 +36,12 @@ afficher des messages d'erreur, mettre en couleur les date qui sont soie en reta
 pnpm dev
 ```
 :::
+
+### utilisation ts en entreprise 
+ 
+ utilisation de stencil dans les projet intern de l'entreprise comme sur 
+ le front du spider serveur 
+
+ ajouts d'élément le spiderBus pour voir les erreurs 
+
+ j'ai aussi resolut des test unitaire 
