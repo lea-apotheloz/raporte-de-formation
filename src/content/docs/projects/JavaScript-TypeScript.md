@@ -37,15 +37,26 @@ pnpm dev
 ```
 :::
 
+ou 
+
+
+:::note
+```
+npm start
+```
+:::
+
 ### utilisation ts en entreprise 
  
- utilisation de stencil dans les projet intern de l'entreprise comme sur 
- le front du spider serveur 
+utilisation de stencil dans les projets interne de l'entreprise comme sur 
+le front du spider serveur 
 
- ajouts d'élément sur  le spiderBus pour voir les erreurs 
-j'ai rosolut des tests unitaire ,
-j'ai modifier un code pour changer en mettant des props et des fetch 
+ajouts d'élément sur le spiderBus pour voir les erreurs 
+j'ai rosolut des tests unitaire pendant ma premiière semaine d'entrer dans l'entreprise ,
+j'ai modifier des codes pour changer en mettant des props et des fetch cela
+pour ameliorer le code et le mettre a jours tout comme les dependences 
+suprrimer celle qui ne sont pas utiliser ouplus utiliser dans les nouvelle version.
 
 creation d'un monitoring pour pouvoir afficher des erreur et pouvoir 
-les voir directement  avec un styseme de couleur et a l'aide d'ue API 
-combien de temps les sibscriptions sont  en erreur 
+les voir directement avec un styseme de couleur et a l'aide d'ue API 
+combien de temps les subscriptions sont  en erreur.
