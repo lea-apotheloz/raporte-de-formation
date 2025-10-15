@@ -48,4 +48,4 @@ j'ai modifier un code pour changer en mettant des props et des fetch
 
 creation d'un monitoring pour pouvoir afficher des erreur et pouvoir 
 les voir directement  avec un styseme de couleur et a l'aide d'ue API 
-combien de temps la sibscription est en erreur 
+combien de temps les sibscriptions sont  en erreur 

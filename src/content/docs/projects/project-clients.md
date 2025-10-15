@@ -27,3 +27,10 @@ qui permet aux utilisateur de ce connecter et de controler un session sur
 un ordinateur a Distance.
 
 ![RDP](RDP.png)
+## install serveur du spider et GED
+
+une fois mis en place le serveur on commence la GED et on dois faire des mapping 
+voila a quoi ressemble l'interface du spiderbus et le commencemet de la ged 
+
+cela me prend en moyen 2 jours pour le faire 
+![GED](image.png)
